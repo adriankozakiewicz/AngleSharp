@@ -27,6 +27,7 @@ In the most simple case you have already a document source and want it to be par
 ```c#
 using System;
 using AngleSharp;
+using AngleSharp.Dom;
 using AngleSharp.Html.Parser;
 
 class MyClass {
